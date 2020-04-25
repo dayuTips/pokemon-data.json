@@ -1,7 +1,7 @@
 # pokemon-data.json
 all Gen 8 data
 
-# report
+# Report
 @dayu_282_
 
 # References
